@@ -1,8 +1,8 @@
 
-import browserHistory from './browserHistory'
-import hashHistory from './hashHistory'
-import createMemoryHistory from './createMemoryHistory'
-import browserQueryHistory from './browserQueryHistory'
+export browserHistory from './browserHistory'
+export hashHistory from './hashHistory'
+export createMemoryHistory from './createMemoryHistory'
+export browserQueryHistory from './browserQueryHistory'
 
 export default {
     browserHistory,
