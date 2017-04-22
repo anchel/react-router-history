@@ -1,0 +1,26 @@
+{
+  "name": "react-router-history",
+  "version": "1.0.0",
+  "description": "wrap history for react-router",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anchel/react-router-history.git"
+  },
+  "keywords": [
+    "react-router",
+    "history"
+  ],
+  "author": "anchel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anchel/react-router-history/issues"
+  },
+  "homepage": "https://github.com/anchel/react-router-history#readme",
+  "dependencies": {
+    "history-plus": "^3.3.3"
+  }
+}
