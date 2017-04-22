@@ -1,6 +1,6 @@
 {
   "name": "react-router-history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrap history for react-router",
   "main": "lib/index.js",
   "scripts": {
